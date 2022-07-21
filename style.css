@@ -1,7 +1,7 @@
 h1 {
     text-align: center;
     color: red;
-    text-shadow: 4px 4px 2px green;
+    text-shadow: 4px 4px 2px rgb(4, 86, 240);
 }
 
 .title {
@@ -13,7 +13,7 @@ h1 {
 }
 
 nav {
-    background-color: rgb(47, 10, 212);
+    background-color: rgb(22, 211, 236);
     text-align: center;
 }
 
